@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @KingAbe1
-- 👀 I’m interested in codeing
+- 👀 I’m interested in coding
 - 🌱 I’m currently learning lot of things
 - 📫 How to reach me abellegesse151@gmail.com
 
