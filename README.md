@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Abel Legesse
-- 👀 I’m interested in coding
-- 🌱 I’m currently learning lot of things
+- 👀 I’m interested in Artificial Intelligence
+- 🌱 I’m currently learning lot of programming laguages
 - 📫 How to reach me abellegesse151@gmail.com
 
 <!---
