@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @KingAbe1
+- 👋 Hi, I’m Abel Legesse
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning lot of things
 - 📫 How to reach me abellegesse151@gmail.com
